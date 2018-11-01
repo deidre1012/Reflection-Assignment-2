@@ -1,1 +1,4 @@
-# Reflection-Assignment-2
+## Reflection-Assignment-2
+
+What I have learned through this second assignment is that anyone has the ability to create a blog and share their knowledge, opinion, and thoughts.  It was frustrating through github to make a blog which led me to eventually switch to wordpress.  I understand that github is a technical writing site; however for the everyday user, it is too complicated to make a blog.  In order to be user friendly I would not suggest using github like I would wordpress.  Wordpress is automatically set up to help walk the user through the process of creating a blog on any skill level.  From beginner to expert, wordpress offers its resources. 
+What I am still unsure about is the requirements on the assignment.  I was told a few times by peers that github looked confusing and that my paragraphs were a little long, but I made sure to meet the word count requirement.  So I am trying to figure out how to make my information seem less long, but still meeting the requirements. 
